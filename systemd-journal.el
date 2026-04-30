@@ -1,5 +1,7 @@
 ;;; -*- lexical-binding: t; -*-
 
+(require 'json)
+(require 'subr-x)
 (require 'tabulated-list)
 (require 'seq)
 
